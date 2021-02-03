@@ -1,0 +1,5 @@
+model/Results.class
+main/resultsMain.class
+SparkStreaming/sparkResults.class
+Receiver/EntryResults.class
+Receiver/EndResults.class
